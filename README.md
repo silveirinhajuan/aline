@@ -26,12 +26,9 @@ Aline lives above every other window, wandering along the bottom of your screen 
 Her behavior is driven by a sprite-based animation system and a simple state machine, allowing her to feel alive while remaining lightweight and unobtrusive.
 
 ---
-
-## Preview
-
 <div align="center">
 
-![Aline](./aline.png)
+![Aline](./assets/aline.png)
 
 </div>
 
@@ -41,7 +38,7 @@ Her behavior is driven by a sprite-based animation system and a simple state mac
 
 A short recording of Aline in action:
 
-* [Demo video](./videos_demo/demonstration.mp4)
+* ![Demo video](./videos_demo/demonstration.mp4)
 
 ---
 
